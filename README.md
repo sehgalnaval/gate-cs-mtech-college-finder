@@ -42,7 +42,7 @@ This tool answers that — instantly. Drag a slider to your GATE score and see r
 
 1. **Clone or download** this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gate-cs-mtech-college-finder.git
+   git clone https://github.com/sehgalnaval/gate-cs-mtech-college-finder.git
    ```
 2. Open `gate_cs_mtech_colleges.html` in any browser (Chrome, Firefox, Edge, Safari)
 3. Drag the **GATE Score slider** to your score
